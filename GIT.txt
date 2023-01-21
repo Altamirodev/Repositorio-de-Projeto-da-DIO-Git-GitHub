@@ -1,0 +1,41 @@
+GIT e GITHUB
+
+COMANDOS - Git Bash:
+
+GIT INIT: Inicializar o serviço GIT;
+
+GIT CONFIG: Configurar determinados parâmetros (usuário, identificador, etc)
+
+GIT ADD . (ou) GIT ADD *: Serve para adicionar os arquivos de um repositório para serem comitados;
+
+GIT COMMIT -M "mensagem de referencia": Essa ação COMITA o arquivo para publicação e o "-m" serve
+para registrar uma mensagem de referência do que está sendo feito nesse COMIT (muito importante
+colocar uma mensagem coerente com o(s) objetivo(s). 
+Ex: Primeiro commit dos arquivos; alteração do arquivo "nome" com inclusao de elementos...
+
+GIT REMOTE ADD ORIGIN: Serve para enviar os arquivos do diretório local(comitados) ao diretório
+remoto (WEB).
+(*) ORIGIN é apenas um alias/apelido, para não precisar digitar todo o caminho da WEB (URL).
+
+GIT REMOTE -V: Serve para verificar a lista de respositórios REMOTOS (WEB).
+
+LS: Listar diretório/pastas (como no DIR do DOS);
+
+CTRL + L: Limpar tela;
+
+LS -A: Listar diretório (pastas) incluindo as ocultas;
+
+MKDIR: Criar nova pasta;
+
+MV: Mover arquivos (mv nome_arquivo.txt diretorio desejado)
+
+CD : Change Directory - serve para navegar/acessar determinado diretório/pasta.
+
+CD ..: Serve para retroceder de determinado diretório/pasta.
+
+MD - Markdown: Significa uma forma humanizada de escrever HTML, que é utilizado no Git/GitHub. 
+(*)Link para 
+
+LINKS ÚTEIS:
+1 - Consultar documentação do GTI: https://git-scm.com/
+2 - Consultar documentação do Markdown: https://www.markdownguide.org/
